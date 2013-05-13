@@ -1,0 +1,13 @@
+<matchers>
+
+    <!-- Wicket matchers -->
+    <factory class="com.nitorcreations.matchers.ComponentMatchers" />
+    <factory class="com.nitorcreations.matchers.ComponentWithParent" />
+    <factory class="com.nitorcreations.matchers.ContainerWithChild" />
+    <factory class="com.nitorcreations.matchers.FormComponentMatchers" />
+    <factory class="com.nitorcreations.matchers.HasBehavior" />
+    <factory class="com.nitorcreations.matchers.HasCorrespondingTag" />
+    <factory class="com.nitorcreations.matchers.HasFeedbackMessage" />
+    <factory class="com.nitorcreations.matchers.ModelMatchers" />
+
+</matchers>
