@@ -9,8 +9,8 @@ Available in Maven central repository. Add this to your `pom.xml`
 ```xml
 <dependency>
   <groupId>com.nitorcreations</groupId>
-  <artifactId>wicket-test-utils</artifactId>
-  <version>1.1</version>
+  <artifactId>wicket-matchers</artifactId>
+  <version>1.0</version>
 </dependency>
 ```
 
