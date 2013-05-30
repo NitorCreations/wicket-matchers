@@ -2,6 +2,20 @@
 
 The static factory methods for each matcher are generated to `com.nitorcreations.WicketMatchers` class.
 
+## Maven
+
+Available in Maven central repository. Add this to your `pom.xml`
+
+```xml
+<dependency>
+  <groupId>com.nitorcreations</groupId>
+  <artifactId>wicket-test-utils</artifactId>
+  <version>1.1</version>
+</dependency>
+```
+
+## Contents
+
 The package contains the following matchers:
 
 ##### ComponentMatchers
