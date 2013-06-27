@@ -9,5 +9,6 @@
     <factory class="com.nitorcreations.matchers.HasCorrespondingTag" />
     <factory class="com.nitorcreations.matchers.HasFeedbackMessage" />
     <factory class="com.nitorcreations.matchers.ModelMatchers" />
+    <factory class="com.nitorcreations.matchers.PageParametersMatcher" />
 
 </matchers>
